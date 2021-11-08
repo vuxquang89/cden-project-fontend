@@ -1,0 +1,10 @@
+#more {display: none;}
+
+.p-class{
+    margin: 0;
+    text-align: left;
+}
+
+.p-class-indent{
+    text-indent: 20px;
+}
